@@ -14,13 +14,6 @@
         "revision":     "kitkat"
     },
     {
-        "remote":       "aosp",
-        "account":      "device",
-        "repository":   "lge/mako-kernel",
-        "target_path":  "device/lge/mako-kernel",
-        "revision":     "refs/tags/android-4.4_r1.2"
-    },
-    {
         "remote":       "github",
         "account":      "AOSPA",
         "repository":   "android_hardware_qcom_display",
