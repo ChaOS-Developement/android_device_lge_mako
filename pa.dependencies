@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "AOSPA/android_hardware_qcom_power",
         "target_path":  "hardware/qcom/power",
-        "revision":     "kitkat"
+        "revision":     "refs/tags/android-4.4.1_r1"
     },
     {
         "remote":       "blobs",
