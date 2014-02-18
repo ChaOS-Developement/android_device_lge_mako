@@ -12,8 +12,8 @@
         "revision":     "kitkat"
     },
     {
-        "remote":       "aospal",
-        "repository":   "android_kernel_google_msm",
+        "remote":       "github",
+        "repository":   "ChaOSChriS/android_kernel_google_msm",
         "target_path":  "kernel/lge/mako",
         "revision":     "aosp-mako"
     },
