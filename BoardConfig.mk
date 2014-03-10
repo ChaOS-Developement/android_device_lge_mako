@@ -127,3 +127,6 @@ USE_DEVICE_SPECIFIC_QCOM_PROPRIETARY:= true
 OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
 
 HAVE_ADRENO_SOURCE:= false
+
+# Set -fstrict-aliasing flag to global
+MAKE_STRICT_GLOBAL := true
