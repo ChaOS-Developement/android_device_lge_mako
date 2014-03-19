@@ -130,5 +130,3 @@ HAVE_ADRENO_SOURCE:= false
 
 # Set -fstrict-aliasing flag to global
 MAKE_STRICT_GLOBAL := true
-
--include vendor/psd/configs/BoardVendorPSD.mk
