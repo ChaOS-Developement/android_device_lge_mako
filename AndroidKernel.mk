@@ -15,7 +15,7 @@
 #
 
 KERNEL_DEFCONFIG := mako_defconfig
-KERNEL_DIR := kernel
+KERNEL_DIR := kernel/lge/mako
 
 -include $(TOP)/$(KERNEL_DIR)/AndroidKernel.mk
 
