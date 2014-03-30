@@ -13,7 +13,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "ChaOS-Developement/android_kernel_google_msm",
+        "repository":   "ChaOS-Development/android_kernel_google_msm",
         "target_path":  "kernel/lge/mako",
         "revision":     "aosp-mako"
     },
